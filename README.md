@@ -67,7 +67,7 @@ It is the first version
 - [Abdallah Alnaime](mailto:181004@ppu.edu.ps) - MERN stack developer
 - [Momin Arafa](mailto:mominarafa@gmail.com) - MERN stack developer
 - [Lana Qawasmy](mailto:lanaqawasmy7@gmail.com) - MERN stack developer
-- [Raghad Salem](mailto:raghadnadersalem20022017@gmail.com) - MERN stack developer
+- [Raghad Salem](mailto:raghadnadersalem20022017@gmail.com) - MERN stack developer -[fidelito pardillo](mailto:fidem0411@gmail.com)-MERN stack developer
 
 ## License
 
